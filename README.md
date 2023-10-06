@@ -16,4 +16,3 @@ Once downloaded, you can use the .exe to your advantage!
 
 # Credits
 - Rayjiun: Developer
-- [Glitch](https://twitter.com/Glitchalodon): Program Icon
