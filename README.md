@@ -12,7 +12,7 @@ A drag and drop tool to auto LOD all your models in Call of Duty: Black Ops III
 # How to use
 Download Paarl from the [Releases](https://github.com/Rayjiun/Paarl/releases) section.
 
-Once downloaded, you can use the .exe to your advantage!
+Once downloaded, drag and drop any .gdt file onto the exe and watch the magic unfold!
 
 # Credits
 - Rayjiun: Developer
