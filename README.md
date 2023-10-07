@@ -7,7 +7,7 @@ A drag and drop tool to auto LOD all your models in Call of Duty: Black Ops III
 - Works with models that even have LODs already set up
 
 # Requirements:
-- .NET Framework 6.0.0
+- .NET Core 6.0.0
 
 # How to use
 Download Paarl from the [Releases](https://github.com/Rayjiun/Paarl/releases) section.
